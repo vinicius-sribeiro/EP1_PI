@@ -1,6 +1,6 @@
 # EP 1 - Cálculos Complexos com Séries de Taylor
 
-**Tema:** Cosseno Hiperbólico ($y = \cosh(x)$)
+**Tema:** Cosseno Hiperbólico
 
 **Disciplina:** PROJETO INTEGRADOR: COMPUTAÇÃO CIENTÍFICA
 
