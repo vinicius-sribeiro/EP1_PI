@@ -10,6 +10,12 @@
 - Nicolas Eugênio
 - Bruna Macruz
 
+**Links:**
+
+Google Colab: https://colab.research.google.com/drive/15Bg5Kpnu8JjRUbuHzR9lKkauhaORHhea#scrollTo=iBsVJkh9b0aL
+
+Youtube: https://youtu.be/OpPNlnDI7HY
+
 ---
 
 ## 1. Visão Geral do Projeto
